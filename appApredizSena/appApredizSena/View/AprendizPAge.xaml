@@ -6,7 +6,7 @@
              Title="Aprendices Centro">
     <ContentPage.Resources>
         <ResourceDictionary>
-            <Local:PromedioColorConvert x:Key="promConverter"/>
+            <local:PromedioColorConvert x:Key="promConverter"/>
             
         </ResourceDictionary>     
        
